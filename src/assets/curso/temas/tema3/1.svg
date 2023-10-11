@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85.776" height="85.063" viewBox="0 0 85.776 85.063">
+  <g id="Page-1" transform="translate(0 -0.482)">
+    <g id="_048---Bird-Table" data-name="048---Bird-Table" transform="translate(0 0.482)">
+      <path id="Shape" d="M28.789,44,27.31,58.789,14,45.479Z" transform="translate(6.705 20.358)" fill="#a56a43"/>
+      <path id="Shape-2" data-name="Shape" d="M48.789,45.479l-13.31,13.31L34,44Z" transform="translate(16.282 20.358)" fill="#a56a43"/>
+      <path id="Shape-3" data-name="Shape" d="M40.747,43V62.226a2.967,2.967,0,0,1-2.958,2.958H25.958A2.967,2.967,0,0,1,23,62.226V43Z" transform="translate(11.015 19.879)" fill="#805333"/>
+      <path id="Shape-4" data-name="Shape" d="M61.284,25.459l-19.95,19.95V55.761H32.46V45.409L12.51,25.459l.725-5.191,6.241-.385L32.46,32.868V7.549L36.9,4l4.437,3.549V32.868L54.318,19.883l4.762.385Z" transform="translate(5.991 1.202)" fill="#f29c1f"/>
+      <rect id="Rectangle-path" width="85.776" height="11.831" rx="2" transform="translate(0 54.006)" fill="#cb8252"/>
+      <g id="Grupo_1067043" data-name="Grupo 1067043" transform="translate(4.437)">
+        <path id="Shape-5" data-name="Shape" d="M79.266,32.275l-1.834,2.307a1.5,1.5,0,0,1-2.085.237l-9.583-7.675L58.8,21.568,45.813,11.186,41.376,7.637,36.94,11.186,23.955,21.568l-6.966,5.575L7.406,34.819a1.5,1.5,0,0,1-2.085-.237L3.487,32.275a1.479,1.479,0,0,1,.222-2.085L40.46.8a1.467,1.467,0,0,1,1.834,0L79.044,30.19a1.479,1.479,0,0,1,.222,2.085Z" transform="translate(-2.925 -0.482)" fill="#805333"/>
+        <circle id="Oval" cx="1.479" cy="1.479" r="1.479" transform="translate(0 58.442)" fill="#805333"/>
+        <circle id="Oval-2" data-name="Oval" cx="1.479" cy="1.479" r="1.479" transform="translate(73.945 58.442)" fill="#805333"/>
+      </g>
+    </g>
+  </g>
+</svg>
