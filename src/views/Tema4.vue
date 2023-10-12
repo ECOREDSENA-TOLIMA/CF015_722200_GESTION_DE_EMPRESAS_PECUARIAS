@@ -68,7 +68,7 @@
         SlyderA(tipo="b")
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4 Animales Domésticos
+              h4 Animales domésticos
               h4 Primeras vivencias de nacimiento 
               p En animales domésticos se conoce como impronta a las primeras vivencias desde el nacimiento y días posteriores a este, los primeros días son determinantes para el futuro comportamiento de cada animal en su vida adulta.
 
@@ -78,7 +78,7 @@
 
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
-              h4 Animales de Presa
+              h4 Animales de presa
               h4 Visión y olfato para supervivencia 
               p Los animales de presa dependen de sentidos como audición, visión y olfato para su supervivencia, y desde el punto de vista de la explotación, estos sentidos son importantes para una adecuada relación entre cuidador y animal. En cuanto a la visión tiene gran importancia para el manejo, la invasión de esta zona determinará que el animal se mueva o se fugue en una dirección particular, de acuerdo con la posición desde donde se ingrese a la misma. (SENASA, 2015).
 

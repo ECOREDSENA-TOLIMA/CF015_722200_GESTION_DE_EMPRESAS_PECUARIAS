@@ -16,7 +16,10 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/1.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 El objetivo de las instalaciones y áreas de alojamiento es proveer a los animales y a los productores un confort tanto físico, medio ambiental, y de carácter social permitiendo a los animales alcanzar el nivel productivo deseado y a los manipuladores ofrecerles la protección y facilidad necesaria para realizar sus labores. Estas instalaciones para el productor son un gasto inicial bastante elevado, el cual aparte de tener la inversión inicial requiere una inversión constante para realizar los diferentes mantenimientos requeridos.  
+            p.mb-0 El objetivo de las instalaciones y áreas de alojamiento es proveer a los animales y a los productores un #[i confort] tanto físico, medio ambiental, y de carácter social permitiendo a los animales alcanzar el nivel productivo deseado y a los manipuladores ofrecerles la protección y facilidad necesaria para realizar sus labores. 
+            br
+            br
+            p.mb-0 Estas instalaciones para el productor son un gasto inicial bastante elevado, el cual aparte de tener la inversión inicial requiere una inversión constante para realizar los diferentes mantenimientos requeridos.  
 
 
     separador
@@ -91,7 +94,7 @@
               tr.text-center
                 th Especie 
                 th Densidad
-            tbody(style="background-color:#FFFFFF").text-center
+            tbody(style="background-color:#FFFFFF")
               tr
                 td #[b Bovinos (Unidades Gran Ganado)]
                 td 0.65 U.G.G. / hectárea (pastoreo) 
@@ -196,7 +199,7 @@
         p.mb-0 Las instalaciones requeridas para las producciones avícolas dependen del sistema productivo utilizado en el predio ya que un sistema productivo intensivo requiere unas instalaciones mucho más sofisticadas, el alojamiento debe ser en un ambiente controlado y duradero ya sea de tipo tradicional o sistematizado. Para la producción de avicultura intensiva es necesario contar con laboratorios (en lo cual no se va a profundizar) y en galpones.
 
     h4(data-aos="fade-right").mb-5 Los galpones
-    p(data-aos="fade-left").mb-5 Son la instalación de alojamiento más importante en el sistema pecuario avícola ya que allí es donde se alojan las aves durante todo su ciclo productivo, para la elaboración y construcción de estos se deben tener en cuenta ciertas recomendaciones de localización, orientación y materiales de fabricación para lograr un mayor confort y aprovechamiento del lugar. A continuación, se pueden ver sus características:
+    p(data-aos="fade-left").mb-5 Son las instalaciones de alojamiento más importantes en el sistema pecuario avícola ya que allí es donde se alojan las aves durante todo su ciclo productivo, para la elaboración y construcción de estos se deben tener en cuenta ciertas recomendaciones de localización, orientación y materiales de fabricación para lograr un mayor confort y aprovechamiento del lugar. A continuación, se pueden ver sus características:
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta")(style="background-color:#DBF9BD").mb-5
       .row(titulo="Localización")
@@ -210,14 +213,14 @@
         .col-md-8.mb-4.mb-md-0
           p La orientación del galpón es importante según la zona en la que se va a construir y las condiciones climáticas de la misma, ya sea para clima frío, templado o cálido.
           h4 Clima frio y templado
-          p Este clima se considera desde los 15 y 20 grados centígrados donde el eje más largo del galpón se direccione de norte a sur esto para lograr una mayor temperatura provocada por la luz solar que el este permanentemente se posiciona sobre el galpón.
+          p Este clima se considera desde los 15 y 20 grados centígrados donde el eje más largo del galpón se direccione de norte a sur esto, para lograr una mayor temperatura provocada por la luz solar que el este permanentemente se posiciona sobre el galpón.
           h4 Clima cálido
           p Las condiciones de clima cálido se presentan a temperaturas mayores de los 20 grados centígrados donde el eje del galpón se debe ubicar de manera de oriente a occidente para así tener periodos de sombra y regular un poco la temperatura.
 
         .col-md-4
           figure
             img(src='@/assets/curso/temas/tema2/12.png', alt='Texto que describa la imagen')
-        .col-8
+        .col-8.mt-5
           figure
             img(src='@/assets/curso/temas/tema2/13.png', alt='Texto que describa la imagen')
 

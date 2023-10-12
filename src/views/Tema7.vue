@@ -119,7 +119,7 @@
           .bloque-texto-g__texto.p-5
             p.mb-0 Los neonatos requieren de asistencia inmune pasiva que son anticuerpos y linfocitos específicamente sensibilizados contra la mayoría de los microorganismos de su entorno, estos son transferidos por la madre a través del calostro hasta que el ternero desarrolla su inmunidad activa (Fortín, 2009).
 
-    p(data-aos="fade-left").mb-5 Los componentes del calostro generalmente son nutrientes necesarios para el animal, una gran cantidad de inmunoglobulinas más de 60 veces, el doble de sólidos totales encontrados en la leche normal,100 veces más de vitamina A, una cantidad de proteína que se calcula casi en 6 veces más y 3 veces más de minerales que la leche normal.
+    p(data-aos="fade-left").mb-5.mt-5 Los componentes del calostro generalmente son nutrientes necesarios para el animal, una gran cantidad de inmunoglobulinas más de 60 veces, el doble de sólidos totales encontrados en la leche normal,100 veces más de vitamina A, una cantidad de proteína que se calcula casi en 6 veces más y 3 veces más de minerales que la leche normal.
 
     separador
     #t_7_2.titulo-segundo.color-acento-contenido
@@ -174,7 +174,8 @@
         .row
           .col-md-9
             h4 Descornado eléctrico
-            p Se emplea en terneros de 1 a 5 semanas de edad, e inclusive en terneros antes de cumplir los 4 meses, o en cuernos de menos de una pulgada de largo. Durante esta edad es fácil distinguir el botón en su inserción al cráneo. Conectar el equipo a una batería de 12 voltios o 24 voltios, con una fuente de electricidad según el aparato y seguir las recomendaciones del fabricante para su uso, Para obtener buenos resultados debe de permanecer conectado hasta alcanzar el calor máximo antes de usarlo y mantenerlo reconectado entre el descornado de un ternero y el siguiente. Aplicar el descornador caliente sobre la yema del cuerno hasta que aparezca un anillo de color cobre que rodee completamente el botón del cuerno o el cuerno pequeño, esto suele aparecer a entre los 10 a 20 seg., y desprende un olor desagradable de pelo y piel chamuscada. Se repite en el otro cuerno. Se emplea en terneros de 1 a 5 semanas. (Goicochea, 2016).
+            p Se emplea en terneros de 1 a 5 semanas de edad, e inclusive en terneros antes de cumplir los 4 meses, o en cuernos de menos de una pulgada de largo. Durante esta edad es fácil distinguir el botón en su inserción al cráneo. Conectar el equipo a una batería de 12 voltios o 24 voltios, con una fuente de electricidad según el aparato y seguir las recomendaciones del fabricante para su uso.
+            p Para obtener buenos resultados debe de permanecer conectado hasta alcanzar el calor máximo antes de usarlo y mantenerlo reconectado entre el descornado de un ternero y el siguiente. Aplicar el descornador caliente sobre la yema del cuerno hasta que aparezca un anillo de color cobre que rodee completamente el botón del cuerno o el cuerno pequeño, esto suele aparecer a entre los 10 a 20 seg., y desprende un olor desagradable de pelo y piel chamuscada. Se repite en el otro cuerno. Se emplea en terneros de 1 a 5 semanas. (Goicochea, 2016).
 
           .col-md-3.mb-4.mb-md-0
             figure
@@ -193,7 +194,8 @@
           
           .col-md-9
             h4 Descolmillada
-            p El manejo en las crías es importante tanto para el bienestar de la madre como de las crías por esta razón se realizan labores como el descolmillado en las producciones porcícolas, debido a que los cerdos nacen con unos dientes caninos muy afilados, estos dientes pueden causar lesiones en las ubres de las cerdas provocando una negación al amamantamiento y por consiguiente un retraso en el crecimiento de los mismos, así como un problema en la cerda para las camadas próximas. El momento oportuno para realizar el descolmillado es 6 horas después del nacimiento de los lechones, asegurando el consumo suficiente de calostro para asegurar que su sistema inmune esté listo. Es importante contar con las herramientas adecuadas: un corta colmillos afilado, antiséptico preferiblemente yodado, y una buena técnica al realizar el corte. Este procedimiento se realiza con los instrumentales previamente desinfectados, se coloca el corta colmillos en paralelo a la mandíbula y se corta el diente sin lacerar la mandíbula, es importante después de realizar el proceso marcar el lechón y verificar que no queden dientes agudos.
+            p El manejo en las crías es importante tanto para el bienestar de la madre como de las crías por esta razón se realizan labores como el descolmillado en las producciones porcícolas, debido a que los cerdos nacen con unos dientes caninos muy afilados, estos dientes pueden causar lesiones en las ubres de las cerdas provocando una negación al amamantamiento y por consiguiente un retraso en el crecimiento de los mismos, así como un problema en la cerda para las camadas próximas. El momento oportuno para realizar el descolmillado es 6 horas después del nacimiento de los lechones, asegurando el consumo suficiente de calostro para asegurar que su sistema inmune esté listo.
+            p Es importante contar con las herramientas adecuadas: un corta colmillos afilado, antiséptico preferiblemente yodado, y una buena técnica al realizar el corte. Este procedimiento se realiza con los instrumentales previamente desinfectados, se coloca el corta colmillos en paralelo a la mandíbula y se corta el diente sin lacerar la mandíbula, es importante después de realizar el proceso marcar el lechón y verificar que no queden dientes agudos.
           .col-md-3.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/tema7/17.svg', alt='Texto que describa la imagen')

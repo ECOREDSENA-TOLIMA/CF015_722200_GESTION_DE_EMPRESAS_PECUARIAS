@@ -66,22 +66,22 @@
                         ul.lista-ul
                           li 
                             i.lista-ul__vineta
-                            | Simmental
+                            | #[i Simmental]
                           li 
                             i.lista-ul__vineta
-                            | Brangus
+                            | #[i Brangus]
                           li 
                             i.lista-ul__vineta
-                            | Angus
+                            | #[i Angus]
                           li 
                             i.lista-ul__vineta
-                            | Brahaman
+                            | #[i Brahaman]
                           li 
                             i.lista-ul__vineta
-                            | Simbrah
+                            | #[i Simbrah]
                           li 
                             i.lista-ul__vineta
-                            | Cebu
+                            | #[i Cebú]
                     tr
                       td  #[b Producción de leche]
                         ul.lista-ul
@@ -101,16 +101,16 @@
                         ul.lista-ul
                           li 
                             i.lista-ul__vineta
-                            | Holstein
+                            | #[i Holstein]
                           li 
                             i.lista-ul__vineta
-                            | Jersey
+                            | #[i Jersey]
                           li 
                             i.lista-ul__vineta
                             | Normando
                           li 
                             i.lista-ul__vineta
-                            | Gyr
+                            | #[i Gyr]
                           li 
                             i.lista-ul__vineta
                             | Pardo suizo
@@ -130,10 +130,10 @@
                         ul.lista-ul
                           li 
                             i.lista-ul__vineta
-                            | Gyr
+                            | #[i Gyr]
                           li 
                             i.lista-ul__vineta
-                            | Guzerath
+                            | #[i Guzerath]
                           li 
                             i.lista-ul__vineta
                             | Harton del valle
@@ -186,9 +186,9 @@
                             | Yorkshire
       .row.justify-content-center(titulo="Equinos")
         .col-11
-          p Animales Mamífero que cuentan con un solo dedo llamado casco, son animales propiamente herbívoros se alimentan de heno, pasto, granos de cebada, algunas hortalizas, avena, soja, maíz, entre otras. 
+          p Animales Mamíferos que cuentan con un solo dedo llamado casco, son animales propiamente herbívoros se alimentan de heno, pasto, granos de cebada, algunas hortalizas, avena, soja, maíz, entre otras. 
           p Su sistema digestivo es un poco delicado por ende requiere muchos cuidados alimenticios y en la forma de alimentar ya que es recomendable repartir la ración en pequeñas cantidades, pero muchas veces al contrario de alimentar solo con una gran ración, sus usos productivos son principalmente la cría. 
-          p Las características de las aves de corral son animales ovíparos ya que su desarrollo embrionario se da en un huevo producido por la hembra que previamente fue fecundado por el macho, son animales omnívoros que se alimentan casi de cualquier clase de alimento, donde por medio de sus picos y patas dotadas con largas uñas buscan su comida, en las condiciones de producción son alimentadas con piensos debidamente elaborados para cumplir con sus necesidades nutricionales, son principalmente criadas por sus huevos y la carne donde se usan razas especializadas para la producción.
+          //-p Las características de las aves de corral son animales ovíparos ya que su desarrollo embrionario se da en un huevo producido por la hembra que previamente fue fecundado por el macho, son animales omnívoros que se alimentan casi de cualquier clase de alimento, donde por medio de sus picos y patas dotadas con largas uñas buscan su comida, en las condiciones de producción son alimentadas con piensos debidamente elaborados para cumplir con sus necesidades nutricionales, son principalmente criadas por sus huevos y la carne donde se usan razas especializadas para la producción.
 
           img(src='@/assets/curso/temas/tema1/2.png')
 
@@ -289,7 +289,7 @@
           .tarjeta(style="background-color:#DBF9BD").p-4(titulo="Fase de levante")
             p.mb-5 Esta fase va generalmente hasta los 24 meses en hembras y 20 meses en machos, es una fase de producción en donde se debe aprovechar el pico de crecimiento de los animales. Estos animales en la fase de levante requieren para una ganancia de 600 gramos al día se debe suministrar de proteína 601 gramos y altos niveles de calcio para su desarrollo osteomuscular, y un porcentaje más o menos del 2 % de su peso vivo en materia seca.
 
-          .tarjeta(style="background-color:#DBF9BD").p-4(titulo="Fase de ceba o engorde")
+          .tarjeta(style="background-color:#DBF9BD; max-width:100%").p-4(titulo="Fase de ceba o engorde")
             p.mb-5 El objetivo de la ceba es alcanzar en un período de tiempo ideal de 30 meses un peso promedio de 480 kilogramos de peso vivo del animal, esta etapa se suministra grandes cantidades de alimento y se completa el desarrollo del animal frente a su estructura corporal.
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
@@ -424,7 +424,7 @@
             h4 Iniciación
             p El proceso de iniciación va desde el destete del animal, donde se empieza a desarrollar todo el componente digestivo ya que el animal por primera vez empieza a recibir alimentación por medio de alimentos balanceados o pellets, esta etapa va hasta los 20 kilogramos.
             h4 Levante
-            p Levante El levante de los cerdos se da desde los 20 kilogramos hasta los 45 kilos, haciendo un proceso de transición entre la iniciación y la ceba.
+            p El levante de los cerdos se da desde los 20 kilogramos hasta los 45 kilos, haciendo un proceso de transición entre la iniciación y la ceba.
             h4 Ceba o engorde
             p La ceba o el engorde se da desde los 45 kilos hasta los 90 – 110 kg que es el peso final comercial, se realiza bajo conceptos de alimentación y cuidado animal.
           .col-md-6
@@ -443,7 +443,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/11.png')})`}"
           )
           .bloque-texto-g__texto.p-5
-            p.mb-0 #[b Conocer al animal y sus instintos], reconociendo su habitad y especio de confort con el fin de reducir el estrés, la excitación, el agotamiento entre otros
+            p.mb-0 #[b Conocer al animal y sus instintos], reconociendo su habitad y especio de #[i confort] con el fin de reducir el estrés, la excitación, el agotamiento entre otros
 
         .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
