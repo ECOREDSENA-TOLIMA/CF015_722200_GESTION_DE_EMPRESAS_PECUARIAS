@@ -226,7 +226,7 @@
       
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/19.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/19.svg', alt='Texto que describa la imagen')
 
       .row
         .col-md-6 

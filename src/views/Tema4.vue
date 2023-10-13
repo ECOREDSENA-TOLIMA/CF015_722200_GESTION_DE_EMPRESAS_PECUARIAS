@@ -88,6 +88,7 @@
 
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
+              h4 Olfato y audición
               p En los animales el olfato y la audición sirven para detectar depredadores cuando están cerca y, en partes oscuras se agudiza la audición con movimientos selectivos en los que se puede posicionar para obtener un máximo rendimiento auditivo.
 
             .col-md-6

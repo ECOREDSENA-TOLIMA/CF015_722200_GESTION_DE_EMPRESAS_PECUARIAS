@@ -222,7 +222,7 @@
             img(src='@/assets/curso/temas/tema2/12.png', alt='Texto que describa la imagen')
         .col-8.mt-5
           figure
-            img(src='@/assets/curso/temas/tema2/13.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema2/13.svg', alt='Texto que describa la imagen')
 
       .row(titulo="Materiales de fabricación")
         .col-md-8.mb-4.mb-md-0
@@ -432,7 +432,8 @@
 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema2/31.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema2/31.jpg', alt='Texto que describa la imagen')
+                //- figcaption Nota. Adaptado de Perulactea (2018)
 
     .text-decor-2.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 #[b Equinos]

@@ -279,9 +279,9 @@
       p.mt-3.p-2 #[b Ciclo productivo ganadería de leche]
     
     .row 
-      .col-3
-        img(src='@/assets/curso/temas/tema1/5.svg')
-      .col-9
+      //- .col-2
+      //-   img(src='@/assets/curso/temas/tema1/5.svg')
+      .col-12
         TabsA.color-acento-botones.mb-5
           .tarjeta(style="background-color:#DBF9BD").p-4(titulo="Fase de inicio")
             p.mb-5 Esta fase no tiene gran diferencia a la ganadería de leche ya que el ternero posee las mismas características físicas y requiere el mismo cuidado.
