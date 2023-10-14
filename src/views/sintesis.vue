@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p Dentro del componente formativo #[b Manejo de las especies pecuarias], se sintetizan los temas referentes a las características y etapas de desarrollo de la especie animal, aplicando las técnicas de manejo según la especie, con el aprovechamiento de las instalaciones y alojamiento, garantizando el espacio mínimo vital y para manejo, como también, los equipos e implementos para la unidad productiva, de la misma forma se trató el tema sobre la importancia del bienestar animal, la recepción de animales nuevos, aplicando en todos los procesos los estándares productivos, protocolos, programación y procedimientos técnicos, también se resalta el manejo de las crías, la gestación y lactancia.
+    p.mb-5 Dentro del componente formativo #[b Manejo de las especies pecuarias], se sintetizan los temas referentes a las características y etapas de desarrollo de la especie animal, aplicando las técnicas de manejo según la especie, con el aprovechamiento de las instalaciones y alojamiento, garantizando el espacio mínimo vital y para manejo, como también, los equipos e implementos para la unidad productiva, de la misma forma se trató el tema sobre la importancia del bienestar animal, la recepción de animales nuevos, aplicando en todos los procesos los estándares productivos, protocolos, programación y procedimientos técnicos, también se resalta el manejo de las crías, la gestación y lactancia.
 
     .row.justify-content-center
       .col-lg-10.mb-5

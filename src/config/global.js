@@ -423,40 +423,35 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Andrés Felipe Avilan Lozano',
-          cargo: 'Experto temático',
+          nombre: 'Juan Manuel Loaiza Trujillo  ',
+          cargo: 'Docente',
+          centro:
+            'Regional Valle - Centro Latinoamericano de Especies Menores (CLEM)',
+        },
+        {
+          nombre: 'Zvi Daniel Grosman ',
+          cargo: 'Diseñador Instruccional',
           centro: 'Regional Tolima - Centro Agropecuario La Granja',
         },
         {
-          nombre: 'Diana Marcela Luis Vásquez',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+          nombre: 'Carolina Coca Salazar ',
+          cargo: 'Metodóloga',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
-          nombre: 'Ana Vela Rodríguez Velásquez',
-          cargo: 'Diseñadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Silvia Milena Sequeda Cárdenas',
-          cargo: 'Evaluadora Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-        },
-        {
-          nombre: 'Jhon Jairo Rodríguez Pérez',
-          cargo: 'Diseñadora y Evaluador Instruccional',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+          nombre: 'Jhon Jairo Rodríguez Pérez ',
+          cargo: 'Diseñador y Evaluador Instruccional',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Humberto Arias Díaz',
           cargo: 'Diseñador Instruccional',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Maria Inés Machado López',
           cargo: 'Asesor Metodológico',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },
@@ -465,33 +460,33 @@ export default {
       autores: [
         {
           nombre: 'Luis Fernando Botero Mendoza',
-          cargo: 'Diseñador web',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Davison Gaitán Escobar',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
           nombre: 'Gilberto Junior Rodríguez Rodríguez',
-          cargo: 'Storyborad e Ilustración',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          cargo: 'Storyboard e Ilustración',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nelsón Iván Vera Briceño',
-          cargo: 'Producción Audiovisual',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Producción audiovisual',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Oleg Livtin',
+          nombre: 'Oleg Litvin',
           cargo: 'Animador',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Francisco José Vásquez Suárez',
+          nombre: 'Davison Gaitán Escobar',
           cargo: 'Actividad Didáctica',
-          centro: 'Regional Distrito Capital - Centro de Comercio y Servicios',
+          centro: 'Regional Tolima - Centro de Comercio y Servicios',
         },
       ],
     },

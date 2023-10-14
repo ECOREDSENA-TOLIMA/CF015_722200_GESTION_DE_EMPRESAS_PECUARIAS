@@ -123,7 +123,7 @@
 
     separador
     #t_7_2.titulo-segundo.color-acento-contenido
-      h2 7.2 Practicas de manejo animal
+      h2 7.2 Prácticas de manejo animal
  
     p(data-aos="fade-left").mb-5 Todas estas prácticas deben realizarse antes del destete del animal inclusive algunas con los animales a pocas horas de nacidos, para así evitar un mayor estrés en ellos y no afectar los tiempos de producción evitando retrasos en el crecimiento o en la ganancia de peso.
 
