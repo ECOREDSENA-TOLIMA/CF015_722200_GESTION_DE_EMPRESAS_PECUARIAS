@@ -9,7 +9,32 @@
 
     p(data-aos="fade-left").mb-5 Dentro de las instalaciones se encuentran diferentes tipos de implementos y equipos que ayudan a conformar y estructurar la unidad productiva, donde en ocasiones el animal tiene que hacer un previo acostumbramiento a los mismos. Dentro de las clases de equipos e implementos se ven las siguientes:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/1.svg' alt='AvatarTop')
+          .tarjeta(style="width:100%; background-color:#DBF9BD")
+            .p-4
+              h2 Alimentación
+              <li>Comederos</li>
+              <li>Bebederos</li>
+              <li>Distribución del alimento</li>
+              br
+
+      .col-lg-6
+        .tarjeta-avatar-b.mb-5
+          .tarjeta-avatar-b__img
+            img(src='@/assets/curso/temas/tema3/2.svg' alt='AvatarTop')
+          .tarjeta(style="width:100%; background-color:#DBF9BD")
+            .p-4
+              h2 Producción
+              <li>Criadoras</li>
+              <li>Nidales</li>
+              <li>Ordeñadoras mecánicas</li>
+              <li>Ventiladores</li>
+
+    //-.row.justify-content-center.mb-5
       .col-5
         .row
           .col-md-6.col-lg.mb-5.mb-lg-0
@@ -126,7 +151,7 @@
           .row
             .col-md-6.mb-4.mb-md-0
               h4 Comederos automáticos
-              p Este tipo de comedero es mucho más tecnificado ya que no requiere de la mano de obra del cuidador u operario, ejecutando mejor el tiempo de este en otras labores necesarias y otorgando al animal mejores criterios de alimentación mucho más uniforme y evitando riñas por el consumo, de esta manera también beneficia al sistema productivo ya que evita desperdicios este tipo de alimentadores es utilizado principalmente en alimentos balanceados en forma de pellet, extruder o harinas.
+              p Este tipo de comedero es mucho más tecnificado, ya que no requiere de la mano de obra del cuidador u operario, ejecutando mejor el tiempo de este en otras labores necesarias y otorgando al animal mejores criterios de alimentación mucho más uniforme y evitando riñas por el consumo, de esta manera también beneficia al sistema productivo, ya que evita desperdicios este tipo de alimentadores es utilizado principalmente en alimentos balanceados en forma de pellet, extruder o harinas.
               p #[b Se pueden utilizar de dos maneras dependiendo el sistema productivo y etapa del animal:]
 
             .col-md-6
@@ -165,40 +190,40 @@
           
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema3/12.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/12.png', alt='imagen decorativa')
 
           .row(numero="2" titulo="Distribuidores de agua autocontenida")
             .col-md-6.mb-4.mb-md-0
               p Bebederos de plástico que requieren un llenado manual, son muy utilizados en aves, su instalación puede ser colgante, requieren de acostumbramiento por parte del animal. 
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema3/13.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/13.png', alt='imagen decorativa')
 
           .row(numero="3" titulo="Bebederos de campana")
             .col-md-6.mb-4.mb-md-0
               p Son utilizados en los galpones de aves generalmente porque proporcionan agua de bebida a un grupo numeroso de aves, son fáciles de limpiar y de trasladar, se instalan directamente al suministro de agua.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema3/14.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/14.png', alt='imagen decorativa')
 
           .row(numero="4" titulo="Bebederos automáticos (tipo mordida) (niple)")
             .col-md-6.mb-4.mb-md-0
               p Son bebederos que son automáticos requieren de un acostumbramiento del animal para aprender a beber, se requiere de una calibración especial en presión de agua, flujo y altura es recomendable que la presión se aumente a medida que el animal se desarrolla.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema3/15.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/15.png', alt='imagen decorativa')
 
           .row(numero="5" titulo="Bebederos de canal")
             .col-md-6.mb-4.mb-md-0
               p Son bebederos muy utilizados en ganadería bovina de pequeños rumiantes y para hidratar equinos, consta de un canal lleno de agua que puede ser conectado directamente al suministro, o llenado por los cuidadores.
             .col-md-6
               figure
-                img(src='@/assets/curso/temas/tema3/16.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/16.png', alt='imagen decorativa')
 
     .text-decor-2.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 #[b Producción]
 
-    p(data-aos="fade-left").mb-5 Son todos los equipos utilizados para mejorar los factores productivos asegurando las mejores condiciones al animal brindándole el mayor bienestar y confort para que exprese todo su potencial productor. Dentro de estos equipos se tienen las criadoras o calentadores, los nidales, las ordeñadoras mecánicas, los ventiladores, como se ve a continuación:
+    p(data-aos="fade-left").mb-5 Son todos los equipos utilizados para mejorar los factores productivos asegurando las mejores condiciones al animal, brindándole el mayor bienestar y confort para que exprese todo su potencial productor. Dentro de estos equipos se tienen las criadoras o calentadores, los nidales, las ordeñadoras mecánicas, los ventiladores, como se ve a continuación:
 
     PasosA.color-acento-contenido.mb-5(tipo="n")
       .row
@@ -208,12 +233,12 @@
 
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/17.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/17.png', alt='imagen decorativa')
 
       .row
         .col-md-6.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/temas/tema3/18.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/18.png', alt='imagen decorativa')
         .col-md-6
           h3 Nidales
           p Son utilizados en aves de postura y es allí donde se depositan los huevos, deben ser cómodos y atractivos para los animales, se consideran que sean oscuros para que la gallina lo vea como un lugar seguro y realice la ovoposición, estos nidos pueden ser comunales.
@@ -221,17 +246,17 @@
       .row
         .col-md-6.mb-4.mb-md-0
           h3 Ordeñadoras mecánicas  
-          p Este equipo permite realizar el ordeño de los animales, son muy utilizados en grandes y pequeños rumiantes, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo, evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con un copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. 
+          p Este equipo permite realizar el ordeño de los animales, son muy utilizados en grandes y pequeños rumiantes, estas máquinas aplican vacío parcial al pezón para lograr extraer la leche, ejerce fuerzas que provoca un masaje en el pezón para aumentar la circulación del mismo, evitando congestiones y posibles problemas de mastitis, estos equipos cuentan con una copa de ordeño, pezoneras, bomba de vacío, regulador de vacío, recibidor y bomba para la leche, mangueras de conducción, colector de ordeño, motor, entre otras. 
           p Es importante realizar una previa limpieza u desinfección de las diferentes partes para evitar enfermedades o alteraciones en el producto.
       
         .col-md-6
           figure
-            img(src='@/assets/curso/temas/tema3/19.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/19.svg', alt='imagen decorativa')
 
       .row
         .col-md-6 
           figure
-            img(src='@/assets/curso/temas/tema3/20.png', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/20.png', alt='imagen decorativa')
         .col-md-6.mb-4.mb-md-0
           h3 Ventiladores  
           p En el interior de los galpones, las cocheras y otros, se necesita que la temperatura sea la ideal para que los animales estén en las mejores condiciones de manejo, la ventilación ayuda a regular la temperatura y la humedad en casos de calor extremo, también ayuda a la eliminación de los diferentes gases (amoniaco, dióxido de carbono, etc.) que se producen en los sistemas productivos y quedan contenidos en las naves de producción, para mantener una ventilación ideal se requiere tener en cuenta los siguientes factores:

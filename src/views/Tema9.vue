@@ -20,7 +20,7 @@
       .row(titulo="Glándula mamaria rumiantes")
         .col-auto.mb-4.mb-md-0
           p Está compuesta por 4 cuartos completamente independientes, dos delanteros y dos traseros. Los cuartos traseros tienen mayor capacidad de producción hasta aproximadamente el 60 % y un 40 % los cuartos delanteros; estos cuartos están separados por tejido conectivo no definido y los cuartos derechos e izquierdos están separados por un ligamento suspensorio medio. No existe la posibilidad de compartir leche de un cuarto a otro, existe la probabilidad de intercambio sanguíneo. Posición inguinal.
-          p Cada cuarto finaliza en un pezón que tiene una longitud aproximada de 7 a 8cm, estos pezones están constituidos por 4 capas: Epidermis, dermis, músculo y endotelio. 
+          p Cada cuarto finaliza en un pezón que tiene una longitud aproximada de 7 a 8 cm, estos pezones están constituidos por 4 capas: Epidermis, dermis, músculo y endotelio. 
           .row.justify-content-center 
             .col-10.mt-5
               .titulo-sexto.color-acento-contenido
@@ -98,7 +98,7 @@
 
     p(data-aos="fade-left").mb-5 Se pueden agrupar en secciones por el tipo de anomalía y origen, como se ve a continuación:
 
-    SlyderC.mb-5(:datos="datosSlyder")
+    SlyderB.mb-5(:datos="datosSlyder")
 
 </template>
 

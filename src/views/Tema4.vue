@@ -12,7 +12,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/1.png')})`}"
       )
       .bloque-texto-g__texto.p-5
-        p.mb-0 Cuando se habla de bienestar animal se refiere a las buenas condiciones en las que un animal está en su entorno como su estado de salud, disponibilidad de alimento y agua en buen estado para el consumo, seguridad y lugar donde pueda expresar abiertamente su comportamiento natural evitando el dolor y el miedo, acceso a medicina preventiva y curativa, etc.
+        p.mb-0 Cuando se habla de bienestar animal se refiere a las buenas condiciones en las que un animal está en su entorno, como su estado de salud, disponibilidad de alimento y agua en buen estado para el consumo, seguridad y lugar donde pueda expresar abiertamente su comportamiento natural, evitando el dolor y el miedo, acceso a medicina preventiva y curativa, etc.
 
     separador
     #t_4_1.titulo-segundo.color-acento-contenido
@@ -21,37 +21,39 @@
     .cajon.color-primario.p-4.mb-5
       p Los animales deben ser tratados con respeto y de forma compasiva, el bienestar animal contempla la muerte digna en el momento que corresponda y sea estrictamente necesario terminar con su sufrimiento.
 
-    .tarjeta.BGIMG01.p-5(style="border-radius:0px")
-      .row.justify-content-around.align-items-center.p-5
-        .col-6 
-          p Entre los principios básicos de bienestar animal siempre se habla de la regla de las “cinco libertades”:
-          ul.lista-ul
-            li 
-              i.lista-ul__vineta
-              | Libre de hambre, sed y malnutrición.
-            li 
-              i.lista-ul__vineta
-              | Libre de temor y angustia.
-            li 
-              i.lista-ul__vineta
-              | Libre de incomodidades como molestias físicas y térmicas.
-            li 
-              i.lista-ul__vineta
-              | Libre de dolor y enfermedad. 
-            li 
-              i.lista-ul__vineta
-              | Libre expresión en comportamiento animal natural.  
-        .col-6
-          img(src="@/assets/curso/temas/tema4/2.png").img65
+    .row.justify-content-center 
+      .col-10
+        .tarjeta.BGIMG01.p-5(style="border-radius:0px")
+          .row.justify-content-around.align-items-center.p-5
+            .col-12
+              p Entre los principios básicos de bienestar animal siempre se habla de la regla de las “cinco libertades”:
+              ul.lista-ul
+                li 
+                  i.lista-ul__vineta
+                  | Libre de hambre, sed y malnutrición.
+                li 
+                  i.lista-ul__vineta
+                  | Libre de temor y angustia.
+                li 
+                  i.lista-ul__vineta
+                  | Libre de incomodidades como molestias físicas y térmicas.
+                li 
+                  i.lista-ul__vineta
+                  | Libre de dolor y enfermedad. 
+                li 
+                  i.lista-ul__vineta
+                  | Libre expresión en comportamiento animal natural.  
+            //- .col-6
+              img(src="@/assets/curso/temas/tema4/2.png").img65
 
-    p(data-aos="fade-left").mb-5 Todo animal que cumpla una función deportiva, trabajo, producción, investigación, entre otros, debe tener garantía de buena salud y condición corporal además de comodidades básicas de vida y eso debe ser un deber ético de las personas que se hacen cargo del él. 
+    p.mt-5(data-aos="fade-left").mb-5 Todo animal que cumpla una función deportiva, trabajo, producción, investigación, entre otros, debe tener garantía de buena salud y condición corporal además de comodidades básicas de vida y eso debe ser un deber ético de las personas que se hacen cargo del él. 
 
     .row.justify-content-around.align-items-center.mb-5
       .col-10
         .bloque-texto-d.color-secundario.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            h3.text-regular En cuanto al bienestar de los animales acuáticos, la OIE formula recomendaciones relativas a los peces de cultivo (excepto para las especies ornamentales) e insta a “recurrir a métodos de manipulación que sean apropiados a las características biológicas del animal, así como un entorno adaptado a sus necesidades”
+            h3.text-regular En cuanto al bienestar de los animales acuáticos, la OIE formula recomendaciones relativas a los peces de cultivo (excepto para las especies ornamentales) e insta a recurrir a métodos de manipulación que sean apropiados a las características biológicas del animal, así como un entorno adaptado a sus necesidades
             i.fas.fa-quote-right
           .bloque-texto-d__autor 
             .h5.mb-0 (OMS, 2021).  
@@ -61,7 +63,7 @@
       h2 4.2 Comportamiento animal
     
     p(data-aos="fade-left") El comportamiento animal está basado en la genética y las condiciones ambientales de cada uno de ellos.
-    p(data-aos="fade-left") El comportamiento instintivo está pocamente relacionado con aprendizajes o vivencias del animal, este comportamiento se considera asociado a la genética y se relaciona con los comportamientos naturales de cada especie (parto, succión de pezón para obtención de leche, comportamiento reproductivo, entre otros); por otro lado, están los comportamientos basados en las vivencias y el entorno del animal, estos aprendizajes son esenciales en la primera etapa de vida ya que usualmente se aprende de los padres o de la manada.
+    p(data-aos="fade-left") El comportamiento instintivo está pocamente relacionado con aprendizajes o vivencias del animal, este comportamiento se considera asociado a la genética y se relaciona con los comportamientos naturales de cada especie (parto, succión de pezón para obtención de leche, comportamiento reproductivo, entre otros); por otro lado, están los comportamientos basados en las vivencias y el entorno del animal, estos aprendizajes son esenciales en la primera etapa de vida, ya que usualmente se aprende de los padres o de la manada.
     p(data-aos="fade-left").mb-5 A continuación, se puede ver un poco más al respecto:
 
     .tarjeta.color-secundario.p-4.mb-5
@@ -177,7 +179,7 @@
               i.lista-ul__vineta
               | Manejo adecuado de iluminación y corrientes de aire que puedan generar un cambio en el comportamiento animal, afección a salud y por tanto al bienestar (especial cuidado en explotación avícola y porcícola). 
         
-    p(data-aos="fade-left") La zona de fuga hace referencia a punto de equilibrio o balance y el punto ciego, el conocimiento de esto facilita el entendimiento del desplazamiento de los animales. El punto de equilibrio hace referencia a una línea imaginaria a la altura de la cruz de los animales, permite analizar la dirección de movimiento del animal dependiendo del lado en el cual se invada la zona de fuga; si las personas se acercan por detrás del punto de equilibro el animal avanza, y si se hace el acercamiento desde el frente del punto de equilibrio el animal retrocede. El punto ciego se encuentra detrás de la cola del animal, se debe evitar que, en el momento de una posible manipulación los operarios se posicionen en este lugar para intentar mover el animal desde este punto porque no funciona y puede generar accidentes dentro de las granjas. 
+    p(data-aos="fade-left") La zona de fuga hace referencia a punto de equilibrio o balance y el punto ciego, el conocimiento de esto facilita el entendimiento del desplazamiento de los animales. El punto de equilibrio hace referencia a una línea imaginaria a la altura de la cruz de los animales, permite analizar la dirección de movimiento del animal dependiendo del lado en el cual se invada la zona de fuga; si las personas se acercan por detrás del punto de equilibro el animal avanza, y si se hace el acercamiento desde el frente del punto de equilibrio el animal retrocede. El punto ciego se encuentra detrás de la cola del animal, se debe evitar que, en el momento de una posible manipulación los operarios se posicionen en este lugar para intentar mover el animal desde este punto, porque no funciona y puede generar accidentes dentro de las granjas. 
 
     p(data-aos="fade-left").mb-5 #[b Cuando se requiera el desplazamiento de animales domésticos de presa, se deben tener en cuenta unas recomendaciones:]
 

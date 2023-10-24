@@ -222,7 +222,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar PDF',
-        download: 'downloads/CFA_015_722200.zip',
+        download: 'downloads/CFA_15_722200.zip',
       },
       {
         icono: 'fas fa-download',
@@ -262,7 +262,7 @@ export default {
       tema: '4.	Bienestar animal',
       referencia:
         'OIE. (2021). Código sanitario para animales terrestres, Bienestar animal.',
-      tipo: 'Páginas web',
+      tipo: 'Página web',
       link:
         'https://www.woah.org/es/que-hacemos/normas/codigos-y-manuales/acceso-en-linea-al-codigo-terrestre/?id=169&L=1&htmfile=titre_1.7.htm',
     },

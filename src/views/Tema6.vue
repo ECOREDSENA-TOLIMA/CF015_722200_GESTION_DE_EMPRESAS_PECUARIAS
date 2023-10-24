@@ -7,13 +7,13 @@
         span 6
       h1 Prácticas de manejo animal 
 
-    .row
-      .col-md-5
+    .row.justify-content-center.align-items-center
+      .col-lg-5.col-md-10.mb-3.col-12
         figure
           img(src='@/assets/curso/temas/tema6/1.png', alt='Texto que describa la imagen')
-      .col-md-7.mb-4.mb-md-0
+      .col-lg-7.col-md-10.mb-3.col-12
         .tarjeta.color-secundario.p-4
-          p Estas prácticas van encaminadas al bienestar animal y a elevar los diferentes estándares productivos, ya que  unas prácticas de manejo inadecuadas, pueden provocar grandes pérdidas económicas, es importante comprender  que las diferentes formas de manejo van determinadas por los sistemas de producción y animales manejados, dentro de estas actividades se ven las producciones extensivas y las intensivas en donde el manejo animal varía ya que dependiendo del sistema aplicado las densidades animales son diferentes, la alimentación, la reproducción y la crianza, teniendo en cuenta lo anterior, se define como #[b práctica de manejo animal a toda actividad utilizada para facilitar la manipulación animal y controlar el comportamiento de los animales, con la finalidad de ser más eficientes y competitivos.]
+          p Estas prácticas van encaminadas al bienestar animal y a elevar los diferentes estándares productivos, ya que  unas prácticas de manejo inadecuadas, pueden provocar grandes pérdidas económicas, es importante comprender  que las diferentes formas de manejo van determinadas por los sistemas de producción y animales manejados, dentro de estas actividades se ven las producciones extensivas y las intensivas en donde el manejo animal, varía ya que dependiendo del sistema aplicado las densidades animales son diferentes, la alimentación, la reproducción y la crianza, teniendo en cuenta lo anterior, se define como #[b práctica de manejo animal a toda actividad utilizada para facilitar la manipulación animal y controlar el comportamiento de los animales, con la finalidad de ser más eficientes y competitivos.]
 
     p(data-aos="fade-left").mb-5 Dentro de estas prácticas de manejo se encuentra la asistencia a la gestación y el parto, los diferentes pesajes aplicados a los animales, las prácticas de ordeño, el despique en las aves de corral, despezuñado en los cerdos y algunos pequeños rumiantes.
 
@@ -34,11 +34,11 @@
     #t_6_2.titulo-segundo.color-acento-contenido
       h2 6.2 Programación
 
-    .row.mb-5
-      .col-md-7
+    .row.mb-5.justify-content-center.align-items-center
+      .col-lg-5.col-md-10.mb-3.col-12
         figure
           img(src='@/assets/curso/temas/tema6/2.svg', alt='Texto que describa la imagen')
-      .col-md-5.mb-4.mb-md-0
+      .col-lg-7.col-md-10.mb-3.col-12
         p Las diferentes actividades de manejo animal requieren de una programación, dependiendo de la práctica de manejo que se vaya a realizar, es importante tener en cuenta que estas actividades son determinadas principalmente por el tipo de sistema productivo y la especie a tratar, cabe tener en cuenta también el tiempo de producción del animal para así determinar cada cuanto tiempo es requerida la actividad.
         p Las actividades como el pesaje en las aves se realizan cada 15 o 30 días dependiendo el sistema productivo, en el ganado es cada 60 días, y en las demás especies generalmente es cada 30 días, las actividades de despique en las aves ponedoras se realizan los primeros 8 -12 días y posteriormente se hace un refuerzo de la semana 10 a 12 más o menos, en cuanto al despezuñado. el primer recorte se realiza a los 3 meses de edad y se repite cada 3 a 6 meses, dependiendo del tipo de explotación.
 
@@ -56,8 +56,8 @@
     p(data-aos="fade-left").mb-5 Es importante para la atención del parto reconocer los signos característicos de la gestación para así aprender a identificar que el animal se encuentra en este estado.
 
     .tarjeta(style="background-color:#DBF9BD; border-radius:0px").p-4.mb-5
-      .row.align-items-center
-        .col-6.p-4
+      .row.justify-content-center.align-items-center
+        .col-lg-6.col-md-10.mb-3.col-12
           ul.lista-ul
             li 
               i.lista-ul__vineta
@@ -74,7 +74,7 @@
             li 
               i.lista-ul__vineta
               | En algunos casos expulsión de leche por la ubre.
-        .col-6
+        .col-lg-6.col-md-10.mb-3.col-12
           figure
             img(src="@/assets/curso/temas/tema6/3.png").p-4
 
@@ -108,7 +108,7 @@
     .row.justify-content-center.mb-5
       .col-10
         .cajon.color-primario.p-4
-          p Existen casos donde la hembra por sus propios medios no puede expulsar el feto y el parto se complica, esto es llamado parto distócico en este momento el operario puede realizar una técnica que consiste en introducir la mano para intentar empujar el feto para facilitar la salida, puede presentarse por anormalidades del feto, tamaño excesivamente grande, o problemas de posicionamiento fetal.
+          p Existen casos donde la hembra por sus propios medios no puede expulsar el feto y el parto se complica, esto es llamado parto distócico, en este momento el operario puede realizar una técnica que consiste en introducir la mano para intentar empujar el feto para facilitar la salida, puede presentarse por anormalidades del feto, tamaño excesivamente grande, o problemas de posicionamiento fetal.
 
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-5
@@ -135,7 +135,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h4 Muestras para pesaje
-              p Siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales, este se usa principalmente en las aves ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
+              p Siempre se deben realizar muestras significativas en caso de no poder realizar el pesaje de todos los animales, este se usa principalmente en las aves, ya que el crecimiento de estas es muy parejo bajo buenas condiciones de alimentación.
 
             .col-md-6
               figure
@@ -188,7 +188,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h4 Métodos de despique
-              p En la práctica existen 2 tipos o métodos para realizar el corte de los picos uno cuenta con un cuchillo caliente o una hoja de metal filosa y el segundo método es realizado con tecnología de rayos infrarrojos. El método de la hoja de metal caliente es el más utilizado en la gran mayoría de producciones.
+              p En la práctica existen 2 tipos o métodos para realizar el corte de los picos, uno cuenta con un cuchillo caliente o una hoja de metal filosa y el segundo método es realizado con tecnología de rayos infrarrojos. El método de la hoja de metal caliente es el más utilizado en la gran mayoría de producciones.
 
             .col-md-6
               figure
@@ -199,7 +199,7 @@
               h4 Recomendaciones métodos despique
               p • Dejar como mínimo 2 mm de longitud del pico desde las fosas nasales. 
               p • En caso de los rayos infrarrojos se obtiene una mejor precisión y mayor igualdad. 
-              p En el mercado existen máquinas especiales para cortar picos, hechas con unas estructuras de lámina calibre 16 y 18 donde por medio de unos electrodos calientan la lámina causando así el corte y la cauterización al mismo tiempo, se opera con el pie y posibilita que el operario pueda usar las manos para sujetar el animal.
+              p En el mercado existen máquinas especiales para cortar picos, hechas con unas estructuras de lámina calibre 16 y 18, donde por medio de unos electrodos calientan la lámina causando así el corte y la cauterización al mismo tiempo, se opera con el pie y posibilita que el operario pueda usar las manos para sujetar el animal.
 
             .col-md-6
               figure
@@ -216,7 +216,7 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h4 Despezuñado
-              p Esta técnica consiste en el recorte del tejido corneo sobrante que crece en condiciones normales pero la falta de desgaste del animal genera crecimiento excesivo, causando alteraciones en el caminar, y acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se debe realizar el corte de las mimas.
+              p Esta técnica consiste en el recorte del tejido córneo sobrante que crece en condiciones normales, pero la falta de desgaste del animal genera crecimiento excesivo, causando alteraciones en el caminar, y acumulación de material que posteriormente se transforma en una patología mucho más complicada, por ende, se debe realizar el corte de las mimas.
               p Este recorte debe hacerse con mucho cuidado solo cortando la parte que crece en exceso y se hace de manera progresiva, en caso de ver sangrado detener la práctica.
 
             .col-md-6

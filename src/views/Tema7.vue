@@ -7,9 +7,9 @@
         span 7
       h1 Manejo de crías
 
-    p(data-aos="fade-left") El manejo de las crías es uno de los pilares productivos en los diferentes sistemas de explotación animal, pues serán quienes mantendrán dicho sistema. De allí la importancia de realizar un buen cuidado y manejo para así asegurar la supervivencia del animal evitando pérdidas económicas o retrasos en el crecimiento.
+    p(data-aos="fade-left") El manejo de las crías es uno de los pilares productivos en los diferentes sistemas de explotación animal, pues serán quienes mantendrán dicho sistema. De allí la importancia de realizar un buen cuidado y manejo para así asegurar la supervivencia del animal, evitando pérdidas económicas o retrasos en el crecimiento.
     p(data-aos="fade-left") Tanto la madre como las crías recién nacidas requieren una supervisión durante el parto para asegurar un buen alumbramiento por parte de la madre y la supervivencia de la cría.
-    p(data-aos="fade-left").mb-5 En un parto normal la cría requiere una intervención por parte del cuidador donde debe tener en cuenta estos aspectos:
+    p(data-aos="fade-left").mb-5 En un parto normal la cría requiere una intervención por parte del cuidador, donde debe tener en cuenta estos aspectos:
 
     .row.align-items-center
       .col-3.mb-5
@@ -50,7 +50,7 @@
     p(data-aos="fade-left").mb-5 En el ganado bovino se evidencian diferentes tipos de destete los cuales nos sirven para identificar cada uno, dependiendo del tiempo que está el ternero con la madre:
 
     .tarjeta.BGIMG02.p-5(style="border-radius:0px").mb-5
-      .row.justify-content-around.align-items-center.p-5
+      .row.justify-content-around.align-items-center
         p #[b Para iniciar las labores de asistencia es importante tener en cuenta las siguientes recomendaciones]
         ul.lista-ul
           li 
@@ -72,9 +72,9 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right").mb-5
       .col-10
         .row.justify-content-center.align-items-center
-          .col-5
+          .col-lg-5.col-md-10.mb-3.col-12
             img(src='@/assets/curso/temas/tema7/2.png')
-          .col-7
+          .col-lg-7.col-md-10.mb-3.col-12
             p En los cerdos los tipos de destete se ven marcados por la edad del animal, también donde un destete convencional es de 3 a 5 semanas y un destete precoz de 10 días a 3 semanas.
             p Las crías deben ser separadas de las madres de esta manera asegurando que no vuelvan a mamar, en algunos casos se realiza la separación por áreas o potreros, en los cerdos se traslada al lechón a la zona de recría, transición o zona de destete y en los rumiantes se traslada a un potrero lejano de la madre.
 
@@ -93,7 +93,7 @@
                   figure
                     img(src='@/assets/curso/temas/tema7/3.png', alt='Texto que describa la imagen').mb-4
               
-              p Se utiliza para diversas situaciones de manejo animal, así como para su destete evitando la conducta de mamar en los terneros.
+              p Se utiliza para diversas situaciones de manejo animal, así como para su destete, evitando la conducta de mamar en los terneros.
 
           .col-sm-6.col-lg-6.mb-4.mb-lg-0
             .tarjeta.color-primario.p-4(style="height:100%")
@@ -103,12 +103,12 @@
                   figure
                     img(src='@/assets/curso/temas/tema7/4.png', alt='Texto que describa la imagen').mb-4
 
-                p Utensilio muy utilizado en las producciones para asegurar el destete de los animales, consiste en insertar una nariguera la cual impide que el ternero pueda mamar de la madre.
+                p Utensilio muy utilizado en las producciones para asegurar el destete de los animales, consiste en insertar una nariguera, la cual impide que el ternero pueda mamar de la madre.
 
     .text-decor.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 #[b Propiedades del calostro]
 
-    p(data-aos="fade-left").mb-5 La gran mayoría de mamíferos al momento del nacimiento nacen sin un sistema inmune completo, por ende, las primeras horas de amamantamiento son de gran importancia ya que la madre en esas primeras horas ofrece una gran cantidad de inmunoglobulinas esenciales para la supervivencia y crecimiento. 
+    p(data-aos="fade-left").mb-5 La gran mayoría de mamíferos al momento del nacimiento nacen sin un sistema inmune completo, por ende, las primeras horas de amamantamiento son de gran importancia, ya que la madre en esas primeras horas ofrece una gran cantidad de inmunoglobulinas esenciales para la supervivencia y crecimiento. 
 
     .row.justify-content-center 
       .col-10
@@ -125,7 +125,7 @@
     #t_7_2.titulo-segundo.color-acento-contenido
       h2 7.2 Prácticas de manejo animal
  
-    p(data-aos="fade-left").mb-5 Todas estas prácticas deben realizarse antes del destete del animal inclusive algunas con los animales a pocas horas de nacidos, para así evitar un mayor estrés en ellos y no afectar los tiempos de producción evitando retrasos en el crecimiento o en la ganancia de peso.
+    p(data-aos="fade-left").mb-5 Todas estas prácticas deben realizarse antes del destete del animal, inclusive algunas con los animales a pocas horas de nacidos, para así evitar un mayor estrés en ellos y no afectar los tiempos de producción, evitando retrasos en el crecimiento o en la ganancia de peso.
 
     .text-decor-2.text-white.text-center(data-aos="flip-up").mb-5
       p.mt-3.p-2 #[b Descorne]
@@ -203,7 +203,7 @@
         .row
           .col-md-9.mb-4.mb-md-0
             h4 Corte de la cola
-            p Este procedimiento es muy utilizado en la porcicultura y en ovicultura para evitar futuros problemas de bienestar animal ya que los animales con colas en etapas adultas son comúnmente mordidos por otros animales , y estas mordeduras producen lesiones e infecciones a nivel de la columna vertebral, abscesos y fuertes dolores y, para el productor una penalización de la canal al momento del sacrificio. Este corte de la cola se realiza después del consumo de calostro más o menos entre las 12 y las 72 horas después del nacimiento. Previo al uso, todos los elementos deben estar previamente desinfectados y el procedimiento debe realizarlo manos expertas, se toma al animal con una mano y se extiende la cola se calcula una distancia más o menos de 16 mm y se realiza un corte limpio y rápido. Otra técnica consiste en hacer el corte utilizando un cauterizador especial. Si se llega a producir sangrado se recomienda realizar un torniquete durante 15 minutos.
+            p Este procedimiento es muy utilizado en la porcicultura y en ovicultura para evitar futuros problemas de bienestar animal, ya que los animales con colas en etapas adultas son comúnmente mordidos por otros animales , y estas mordeduras producen lesiones e infecciones a nivel de la columna vertebral, abscesos y fuertes dolores y, para el productor una penalización de la canal al momento del sacrificio. Este corte de la cola se realiza después del consumo de calostro más o menos entre las 12 y las 72 horas después del nacimiento. Previo al uso, todos los elementos deben estar previamente desinfectados y el procedimiento debe realizarlo manos expertas, se toma al animal con una mano y se extiende la cola se calcula una distancia más o menos de 16 mm y se realiza un corte limpio y rápido. Otra técnica consiste en hacer el corte utilizando un cauterizador especial. Si se llega a producir sangrado se recomienda realizar un torniquete durante 15 minutos.
         
           .col-md-3
             figure
@@ -214,7 +214,7 @@
           .col-md-9
             h4 Castración
             p En las diferentes producciones pecuarias una de las prácticas de manejo animal más reconocido es la castración de los machos, ya que animales que no van a ser destinados a la reproducción suelen presentar un temperamento muy agresivo, dificultando su manejo. La castración es la acción de anular el funcionamiento de los testículos del macho ya sea por la extracción o por inhibición de esperma y hormonas sexuales masculinas.
-            p La edad inicial para realizar la castración varía dependiendo de la especie, el objetivo de los animales y por último el sistema productivo. En los cerdos es de gran importancia realizar la castración ya que estos producen un fuerte olor sexual que al momento del sacrificio se impregna en la carne dándole un sabor y olor fuerte que afecta su consumo, por esta razón la castración en los cerdos se realiza de manera prácticamente obligada desde las 2 o 3 semanas de edad. En el ganado bovino la castración se realiza más por manejo animal, se recomienda realizarla entre los 6 y 9 meses de edad. En cabras se recomienda entre los 2 a 5 meses, la castración en los equinos puede realizarse a cualquier edad, pero lo más recomendable es entre los 2 y 3 años de edad.
+            p La edad inicial para realizar la castración varía dependiendo de la especie, el objetivo de los animales y por último el sistema productivo. En los cerdos es de gran importancia realizar la castración, ya que estos producen un fuerte olor sexual que al momento del sacrificio se impregna en la carne dándole un sabor y olor fuerte que afecta su consumo, por esta razón la castración en los cerdos se realiza de manera prácticamente obligada desde las 2 o 3 semanas de edad. En el ganado bovino la castración se realiza más por manejo animal, se recomienda realizarla entre los 6 y 9 meses de edad. En cabras se recomienda entre los 2 a 5 meses, la castración en los equinos puede realizarse a cualquier edad, pero lo más recomendable es entre los 2 y 3 años de edad.
 
           .col-md-3.mb-4.mb-md-0
             figure
@@ -256,7 +256,7 @@
     #t_7_3.titulo-segundo.color-acento-contenido
       h2 7.3 Sistema de identificación animal
 
-    p(data-aos="fade-left") La identificación de los animales es una práctica de manejo muy eficiente para los sistemas productivos modernos donde se puede hacer un seguimiento completo de un animal y realizar un manejo sanitario adecuado en caso de requerirlo. Los tipos de identificación o marcaje van de acuerdo con el sistema productivo, especie, requerimiento de la ley, entre otros factores que condicionan realizar una marca en el animal. 
+    p(data-aos="fade-left") La identificación de los animales es una práctica de manejo muy eficiente para los sistemas productivos modernos, donde se puede hacer un seguimiento completo de un animal y realizar un manejo sanitario adecuado en caso de requerirlo. Los tipos de identificación o marcaje van de acuerdo con el sistema productivo, especie, requerimiento de la ley, entre otros factores que condicionan realizar una marca en el animal. 
     p(data-aos="fade-left").mb-5 Estos tipos de identificación son:
 
     .tarjeta.color-secundario.p-4.mb-5
@@ -264,8 +264,8 @@
           .row.align-items-center
             .col-md-6.mb-4.mb-md-0
               h4 Marcado con hierro 
-              p El marcado con hierro es un método de marcaje permanente causado por la aplicación de un hierro ya sea con marca del predio, con los números asignados por el predio o ambos.
-              p La aplicación del hierro se puede realizar por diferentes formas como puede ser por fuego, corrosión o congelación donde todos cumplen el mismo objetivo que es causar una cicatrización en la piel del animal con la forma del hierro, generalmente se realizan en zonas muy visibles para así facilitar la identificación.
+              p El marcado con hierro es un método de marcaje permanente causado por la aplicación de un hierro, ya sea con marca del predio, con los números asignados por el predio o ambos.
+              p La aplicación del hierro se puede realizar por diferentes formas como puede ser por fuego, corrosión o congelación, donde todos cumplen el mismo objetivo que es causar una cicatrización en la piel del animal con la forma del hierro, generalmente se realizan en zonas muy visibles para así facilitar la identificación.
 
             .col-md-6
               figure
