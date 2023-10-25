@@ -63,7 +63,7 @@
     .tarjeta(style="background-color:#DBF9BD").p-4
       PasosB.color-primario
         .row.justify-content-center.align-items-center.col-ipad
-          .col-lg-1.col-md-12.mb-3.col-12.col-xl-4
+          .col-lg-1.col-md-12.mb-3.col.sm-12.col-xl-4
             figure
               img(src='@/assets/curso/temas/tema5/5.svg', alt='Texto que describa la imagen')
           .col-lg-1.col-md-12.mb-3.col-12.col-xl-8
